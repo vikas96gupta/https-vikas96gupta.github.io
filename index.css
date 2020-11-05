@@ -1,5 +1,5 @@
 @charset "utf-8";
-/* CSS Document    --  nav bar stye*/
+ 
 body{
     margin:0px;
     padding: 0px;
@@ -64,7 +64,7 @@ nav ul li a:hover{
     transition: all ease 0.2s;
 }
 
-/*   contents part  */
+ 
 
 .model img{
 	width:100%;
@@ -114,7 +114,7 @@ nav ul li a:hover{
 	transition: all ease 0.2s;
 }
 
-  /*  skill  */
+  
 
 #skills{
 	display: flex;
@@ -232,7 +232,7 @@ nav ul li a:hover{
     margin-top: -20px;
 }
 
-/*  client */
+ 
 
 #project{
     width:100%;
@@ -328,7 +328,7 @@ display: flex;
     transition: all ease 0.2s;
 }
 
-/*  contact  */
+ 
 
 #contact{
 	display:flex;
@@ -387,7 +387,7 @@ footer p{
 }
 
 
-/* responsive malke         */
+ 
 
     nav .menu-btn,
     .menu-icon{
